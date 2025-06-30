@@ -1,1 +1,1 @@
-# Algothon 2025 - MyalGO!!!!
+# Algothon 2025 Repository
