@@ -5,12 +5,12 @@ class TrendStrategy:
     def __init__(
         self,
         n_inst: int,
-        short_w: int = 9,
-        long_w: int = 26,
+        short_w: int = 7,
+        long_w: int = 31,
         confirm_d: int = 3,
         cap_per_tick: float = 10000.0,
         thresh_diff: float = 0.003,
-        atr_window: int = 21,
+        atr_window: int = 20,
     ):
         self.n_inst = n_inst
         self.short_w = short_w
